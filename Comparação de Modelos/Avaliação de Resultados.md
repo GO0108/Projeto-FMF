@@ -41,4 +41,4 @@ Regressão Logística
 
 
 Matrizes de Confusão de SVC, Árvore de Decisões e Regressão Logística , respectivamente:
-<img src="../Comparação de Modelos/Matriz_Conf_1.jpg" width="400">
+<img src="../Comparação de Modelos/Matriz_Conf_1.jpg" width="1400">
