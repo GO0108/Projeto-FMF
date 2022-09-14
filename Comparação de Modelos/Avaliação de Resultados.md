@@ -27,8 +27,8 @@ SVC
 
 
 
-- Regressão Logística
-.
+Regressão Logística
+
 
        precision    recall  f1-score   support
 
@@ -40,7 +40,5 @@ SVC
     weighted avg       0.89      0.89      0.89     16500
 
 
-SVC
-
-
-
+Matrizes de Confusão de SVC, Árvore de Decisões e Regressão Logística , respectivamente:
+<img src="Comparação de Modelos/Matriz_Conf_1.jpg" width="400">
