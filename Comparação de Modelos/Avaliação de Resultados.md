@@ -1,7 +1,6 @@
 # Avaliando resultados
 
-- SVC
-.
+SVC
 
              precision    recall  f1-score   support
 
@@ -15,8 +14,7 @@
 
 
 
-- Árvore de Decisões
-.
+Árvore de Decisões
 
              precision    recall  f1-score   support
 
@@ -28,9 +26,9 @@
     weighted avg       0.72      0.72      0.72     16500
 
 
-- Regressão Logística:
- .
 
+- Regressão Logística
+.
 
        precision    recall  f1-score   support
 
