@@ -27,7 +27,7 @@ SVC
 
 
 
-Regressão Logística
+- Regressão Logística
 
 
        precision    recall  f1-score   support
@@ -38,6 +38,9 @@ Regressão Logística
     accuracy                           0.89     16500
     macro avg       0.89      0.89      0.89     16500
     weighted avg       0.89      0.89      0.89     16500
+
+
+SVC
 
 
 
