@@ -12,6 +12,7 @@ SVC
 weighted avg       0.89      0.89      0.89     16500
 
 
+
 Árvore de Decisões
 
              precision    recall  f1-score   support
@@ -22,5 +23,6 @@ weighted avg       0.89      0.89      0.89     16500
     accuracy                           0.72     16500
    macro avg       0.72      0.72      0.72     16500
 weighted avg       0.72      0.72      0.72     16500
+
 
 Regressão Logística
