@@ -30,7 +30,7 @@ SVC
 Regressão Logística
 
 
-       precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
     positive       0.89      0.90      0.90      8281
     negative       0.90      0.88      0.89      8219
