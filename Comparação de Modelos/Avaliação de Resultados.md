@@ -1,6 +1,7 @@
 # Avaliando resultados
 
 SVC
+
              precision    recall  f1-score   support
 
     positive       0.89      0.90      0.90      8281
