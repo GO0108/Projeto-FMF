@@ -48,3 +48,5 @@ Matrizes de Confusão de SVC, Árvore de Decisões e Regressão Logística , res
 - O modelo SVC obteve um tempo de execução muito alto
 - Os modelos que apresentaram as melhores métricas foram o de Regressão Logística e SVC, apresentando resultados de precisão, recall e f1 similares.
 
+# Conclusão:
+- O modelo ideal a ser usado será o de Regressão Logística
